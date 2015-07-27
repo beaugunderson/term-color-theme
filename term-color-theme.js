@@ -11,8 +11,6 @@ function loadPalette(palette) {
   var theme = path.resolve(__dirname, 'themes', config.theme, config.background,
     palette + '.json');
 
-  console.log('loading', theme);
-
   exports.palette = require(theme);
 }
 
