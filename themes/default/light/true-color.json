@@ -1,0 +1,13 @@
+{
+  "primary": "#002b36",
+  "secondary": "#586e75",
+  "dim": "#93a1a1",
+
+  "good": "#859900",
+  "neutral": "#657b83",
+  "bad": "#dc322f",
+
+  "green": "green",
+  "yellow": "yellow",
+  "red": "red"
+}

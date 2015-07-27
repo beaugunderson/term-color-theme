@@ -1,0 +1,13 @@
+{
+  "primary": "black",
+  "secondary": "blue",
+  "dim": "gray",
+
+  "good": "green",
+  "neutral": "gray",
+  "bad": "red",
+
+  "green": "green",
+  "yellow": "yellow",
+  "red": "red"
+}

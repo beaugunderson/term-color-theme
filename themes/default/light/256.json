@@ -1,0 +1,13 @@
+{
+  "primary": 231,
+  "secondary": 39,
+  "dim": 243,
+
+  "good": 120,
+  "neutral": 246,
+  "bad": 124,
+
+  "green": 10,
+  "yellow": 11,
+  "red": 9
+}

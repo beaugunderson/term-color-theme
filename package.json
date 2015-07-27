@@ -1,0 +1,32 @@
+{
+  "name": "term-color-theme",
+  "version": "1.0.0",
+  "description": "Color themes for the terminal.",
+  "main": "term-color-theme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaugunderson/term-color-theme.git"
+  },
+  "keywords": [
+    "terminal",
+    "cli",
+    "color",
+    "theme"
+  ],
+  "author": "Beau Gunderson <beau@beaugunderson.com> (https://beaugunderson.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beaugunderson/term-color-theme/issues"
+  },
+  "homepage": "https://github.com/beaugunderson/term-color-theme#readme",
+  "dependencies": {
+    "ansi-256-colors": "^1.1.0",
+    "chalk": "^1.1.0",
+    "color": "^0.10.1",
+    "supports-color": "^3.1.0",
+    "term-true-color": "^1.0.0"
+  }
+}
