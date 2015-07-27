@@ -2,6 +2,10 @@
 
 *(note: still a work in progress!)*
 
+*Please see [this
+issue](https://github.com/beaugunderson/term-color-theme/issues/1) to help with
+suggesting default themes!*
+
 Provides terminal color theme support to your module. A user can specify a
 simple config in `~/.config/color-theme/config.json`. All keys in `config.json`
 are optional, and `term-color-theme` defaults to dark background. Default
