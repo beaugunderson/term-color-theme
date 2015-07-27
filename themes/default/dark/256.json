@@ -1,6 +1,8 @@
 {
   "primary": 231,
   "secondary": 39,
+
+  "highlight": 231,
   "dim": 243,
 
   "good": 120,
